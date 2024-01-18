@@ -1,3 +1,4 @@
+//This code is for people who want to challenge themselves with basic calculations!
 import java.util.*; 
 import java.security.SecureRandom;
 public class game_1{ 
