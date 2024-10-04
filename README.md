@@ -1,1 +1,1 @@
-Here is the warehouse of myy Java coursework and small projects!
+Java Coursework for 2022-23 school year second semester Java Basic Programming
